@@ -1,0 +1,312 @@
+Sentence / Phrase
+
+1. Present
+2. Past
+3. Future
+4. Singular
+5. Plural
+6. Affirmative
+7. Negative
+8. Interrogative  (yes / no)
+9. Interrogative negative.
+10. Active x Passive Voice
+
+a)  All clients like to new layout of store.
+1.  Eq.
+2.  All clients liked to new layout of store.
+3.  All clients will like to new layout of store.
+4.  clients / layouts / stores
+5.  client / layout / store
+6.  Eq.
+7.  All clients don't like to new layout of store.
+8.  Do all clients like to new layout of store? Yes, they do. No, they don't.
+9.  Don't all clients like to new layout of store? Yes, they don't. No, they do.
+10. The new layout of store is liked by the all clients.
+
+b)  Some buildings will be repaired.
+1.  Some building is repaired.
+2.  Some buildings was repaired.
+3.  Eq.
+4.  building
+5.  buildings
+6.  Eq.
+7.  Some building won't be repaired.
+8.  Will some buildings be repaired? Yes, It will. No, It won't.
+9.  Won't some buildings be repaired? Yes, It won't. No, It will.
+10. Someone will repair that buildings. 
+
+c)  Their decison have helped everyone.
+1.  Their decision helps everyone.
+2.  Their decision helped everyone.
+3.  Their decision will help everyone.
+4.  decision
+5.  decisions
+6.  Eq.
+7.  Their decision haven't helped everyone.
+8.  Have their decision helped everyone? Yes, It have. No, It haven't.
+9.  Haven't their decision helped everyone? Yes, It haven't. No, It have.
+10. Everyone has been helped by their decision.
+
+d)  The geologists have been studying the planet since long.
+1.  The geologists study the planet since long.
+2.  The geologists studied the planet since long.
+3.  The geologists will study the planet for a long time.
+4.  geologist / planet 
+5.  geologists / planets
+6.  Eq.
+7.  The geologists haven't been studying the planet since long.
+8.  Have the geologists been studying the planet since long? Yes, they have. No, they haven't.
+9.  Haven't the geologists been studying the planet since long? Yes, they haven't. No, they have.
+10. The planet has been studied by the geologists since long.
+
+e)  Part of the documents seemed intact.
+1.  Part of the documents seems intact.
+2.  Eq.
+3.  Part of the documents will seem intact.
+4.  part / document 
+5.  parts / documents
+6.  Eq.
+7.  Part of the documents didn't seem intact.
+8.  Did part of documents seem intact? Yes, It did. No, It didn't.
+9.  Didn't part of documents seem intact? Yes, It didn't. No, It did.
+10. ? 
+
+f)  Grace has been working in the same mall for years.
+1.  Grace works in the same mall for years.
+2.  Grace worked in the same mall for years.
+3.  Grace will work in the same mall for years.
+4.  mall
+5.  malls
+6.  Eq.
+7.  Grace hasn't been working in the same mall for years.
+8.  Has Grace been working in the same mall for years? Yes, She has. No, She hasn't.
+9.  Hasn't Grace been working in the same mall for years? Yes, She hasn't. No, She has.
+10. ?
+
+g)  By the time I arrive, They will have already traveled.
+1.  They are already traveling.
+2.  They already traveled.
+3.  They will travel / They're gonna travel.
+4.  time
+5.  times
+6.  Eq.
+7.  They won't have already traveled.
+8.  Will they have already traveled? Yes, They will. No, They won't.
+9.  Won't they have already traveled? Yes, They won't. No, they will.
+10. ?
+
+h)  He slept in the couch yesterday.
+1.  He sleep in the couch.
+2.  Eq.
+3.  He's gonna sleep in the couch tomorrow.
+4.  couch
+5.  couches
+6.  Eq.
+7.  He didn't sleep in the couch.
+8.  Did He sleep in the couch yesterday? Yes, He did. No, He didn't.
+9.  Didn't He sleep in the couch yesterday? Yes, He didn't, No, He did.
+10. The couch was used by someone for sleep yesterday.
+
+i)  São Paulo state has been representing well the country.
+1.  São Paulo state represents weel the country.
+2.  São Paulo state represented well the country.
+3.  São Paulo state will represent well the country./São Paulo state is gonna represent...
+4.  state / country
+5.  states / countries
+6.  Eq.
+7.  São Paulo state hasn't been representing well the country.
+8.  Has São Paulo state been representing well the country? Yes, It has. No, It hasn't.
+9.  Hasn't São Paulo state representing well the country? Yes, It hasn't. No, It has.
+10. The country has been represented weel by the São Paulo state.
+
+j)  A lot of cars had been stoped by the police.
+1.  A lot of cars are stoped by the police.
+2.  A lot of cars were stoped by the police.
+3.  A lot of cars will be stoped by the police./A lot of cars is gonna stoped...
+4.  car
+5.  cars
+6.  Eq.
+7.  A lot of cars hadn't been stoped by the police.
+8.  Had a lot of cars been stoped by the police? Yes, It had. No, It hadn't.
+9.  Hadn't a lot of cars been stoped by the police? Yes, It hadn't. No, It had.
+10. The police had been stoping a lot of cars on the avenue.
+
+l)  Not of all parents participate in school meetings.
+1.  Eq.
+2.  Not of all parents participated in school meetings.
+3.  Not of all parents will participate in school meetings./ Not of all parents are gonna participate...
+4.  parent / school / meeting
+5.  parents / schools / meetings
+6.  Eq.
+7.  Not of all parents don't participate in school meetings.
+8.  Do not of all parents participate in school meetings? Yes, They do. No, They don't.
+9.  Don't not of all parents participate in school meetings? Yes, They don't. No, They do.
+10. The school meetings are participated by not of all parents.
+
+m)  The committee had been talking about security for two hours.
+1.  The committee are talking about security for two hours.
+2.  The committee was talking about security for two hours.
+3.  The committee will be talking about security for two hours.
+4.  committee / hour
+5.  committees / hours
+6.  Eq.
+7.  The committee hadn't been talking about security for two hours.
+8.  Had the committee been talking about security for two hours? Yes, It had. No, It hadn't.
+9.  Hadn't the committee been talking about security for two hours? Yes, It hadn't. No, It had.
+10. Security topic was talking by the committee for two hours.
+
+n)  By the end of the year, They will have finished this work.
+1.  They finish this work today.
+2.  They finished this work yesterday.
+3.  Eq.
+4.  N/A
+5.  N/A
+6.  Eq.
+7.  They won't have finished this work.
+8.  Will they have finished this work? Yes, They will. No, They won't.
+9.  Won't they have finished this work? Yes, They won't. No, They will.
+10. This work will be finished.
+
+o)  No one was doing the task that moment.
+1.  No one is doing the task.
+2.  No one did the task.
+3.  No one will do the task./No one is gonna do the task.
+4.  task
+5.  tasks
+6.  Eq.
+7.  No one wasn't doing the task that moment.
+8.  Was no one doing the task that moment? Yes, They was. No, They wasn't.
+9.  Wasn't no one doing the task that moment? Yes, They wasn't. No, They was.
+10. The task wasn't being done by everyone that moment.
+
+p)  By May, Joe will have been lived abroad for over five years.
+1.  Joe lives abroad.
+2.  Joe lived abroad last year.
+3.  Joe will live abroad next year./Joe is gonna live abroad next year.
+4.  year
+5.  years
+6.  Eq.
+7.  Joe won't have been lived abroad for over five years.
+8.  Will Joe have been lived abroad for over five years? Yes, he will. No, he won't.
+9.  Won't Joe have been lived abroad for over five years? Yes, he will. No, he won't.
+10. N/A
+
+q)  They used a new fuel in the last race.
+1.  They uses a new fuel in this race.
+2.  Eq.
+3.  They will use a new fuel in next race./ They are gonna use a new fuel in next race.
+4.  race
+5.  races
+6.  Eq.
+7.  They didn't use a new fuel in the last race.
+8.  Did they use a new fuel in the last race? Yes, they did. No, they didn't.
+9.  Didn't they use a new fuel in the last race? Yes, they did. No, they didn't.
+10. A new fuel was used in the last race.
+
+r)  The company will clear the faulty products away.
+1.  The company are clearing now the faulty products away.
+2.  The company cleared yesterday the faulty products away.
+3.  Eq.
+4.  product
+5.  products
+6.  Eq.
+7.  The company won't clear the faulty products away.
+8.  Will the company clear the faulty products away? Yes, it will. No, it won't.
+9.  Won't the company clear the faulty products away? Yes, it will. No, it won't.
+10. The faulty products will cleared away by the company.
+
+s)  Clayton was looking for an anwser on the internet.
+1.  Clayton is looking for an anwser on the internet.
+2.  Clayton looked for an anwser on the internet this morning.
+3.  Clayton will look for an anwser on the internet./Clayton is gonna look for...
+4.  anwser
+5.  anwsers
+6.  Eq.
+7.  Clayton wasn't looking for an anwser on the internet.
+8.  Was Clayton looking for an anwser on the internet? Yes, he was. No, he wasn't.
+9.  Wasn't Clayton looking for an anwser on the internet? Yes, he was. No, he wasn't.
+10. An anwser was looked by Clayton on the internet.
+
+t)  The fans will have been celebrating the new crown.
+1.  The fans celebrate the new crown now.
+2.  The fans celebrated the new crown last year.
+3.  Eq.
+4.  crown
+5.  crowns
+6.  Eq.
+7.  The fans won't have celebrating the new crown.
+8.  Will the fans have celebrating the new crown? Yes, they will. No, they won't.
+9.  Won't the fans have celebrating the new crown? Yes, they will. No, they won't.
+10. The new crown will have been celebrated by the fans.
+
+u)  Sr. Higgs will study an alternative to this situation.
+1.  Sr. Higgs studies right now an alternative to this situation.
+2.  Sr. Higgs studied an alternative to this situation yesterday.
+3.  Eq.
+4.  alternative / situation
+5.  alternatives / situations
+6.  Eq.
+7.  Sr. Higgs won't study an alternative to this situation.
+8.  Will Sr. Higgs study an alternative to this situation? Yes, he will. No, he won't.
+9.  Won't Sr. Higgs study an alternative to this situation? Yes, he will. No, he won't.
+10. An alternative to this situation will be studied by Sr. Higgs.
+
+v)  Many cops will have been using a stun gun.
+1.  Many cops uses a stun gun now.
+2.  Many cops used a stun gun in the last operation.
+3.  Many cops will use a stun gun tomorrow.
+4.  cop / stun gun
+5.  cops / stun guns
+6.  Eq.
+7.  Many cops won't have been using a stun gun.
+8.  Will Many cops have been using a stun gun? Yes, they will. No, they won't.
+9.  Won't many cops have been using a stun gun? Yes, they will. No, they won't.
+10. A stun gun will have been used by many cops.
+
+w)  The People have been helping to organize the party for days.
+1.  The people are helping to organize the party.
+2.  The people helped to organize the party this morning.
+3.  The people will help to organize the party as soon as possible.
+4.  party / day
+5.  parties / days
+6.  Eq.
+7.  The people haven't been helping to organize the party for days.
+8.  Have the people been helping to organize the party for days? Yes, they have. No, they haven't.
+9.  Haven't the people been helping to organize the party for days? Yes, they have. Yes, they haven't.
+10. N/A
+
+x)  He will have been training for months by the end of the contract.
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+7.  
+8.  
+9.  
+10. 
+
+y)  We will have done things over the expected.
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+7.  
+8.  
+9.  
+10. 
+
+z)  You won because you did the right thing.
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+7.  
+8.  
+9.  
+10. 
