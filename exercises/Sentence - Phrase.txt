@@ -10,6 +10,10 @@ Sentence / Phrase
 8. Interrogative  (yes / no)
 9. Interrogative negative.
 10. Active x Passive Voice
+11. Male version
+12. Female version
+13. Conditional
+14. Negative of Conditional
 
 a)  All clients like to new layout of store.
 1.  Eq.
@@ -276,37 +280,37 @@ w)  The People have been helping to organize the party for days.
 10. N/A
 
 x)  He will have been training for months by the end of the contract.
-1.  
-2.  
-3.  
-4.  
-5.  
-6.  
-7.  
-8.  
-9.  
-10. 
+1.  He trains boxe.
+2.  He trained a lot last year.
+3.  He will train boxe next week.
+4.  month / contract
+5.  months / contracts
+6.  Eq.
+7.  He won't have been training for months by the end of the contract.
+8.  Will he have been training for months by the end of the contract? Yes, he will. No, he won't.
+9.  Won't he have been training for months by the end of the contract? Yes, he will. No, he won't.
+10. N/A
 
 y)  We will have done things over the expected.
-1.  
-2.  
-3.  
-4.  
-5.  
-6.  
-7.  
-8.  
-9.  
-10. 
+1.  We do things over the expected now.
+2.  We did things over the expected in the last jog.
+3.  We will do things over the expected next year./ We are gonna do things over the expected next year.
+4.  thing
+5.  things
+6.  Eq.
+7.  We won't have done things over the expected.
+8.  Will we have done things over the expected? Yes, he will. No, he won't.
+9.  Won't we have done things over the expected? Yes, he will. No, he won't.
+10. Things over the expected will have been done by us.
 
 z)  You won because you did the right thing.
-1.  
-2.  
-3.  
-4.  
-5.  
-6.  
-7.  
-8.  
-9.  
-10. 
+1.  You win because you do the right thing.
+2.  Eq.
+3.  You will win because you will do the right thing.
+4.  thing
+5.  things
+6.  Eq.
+7.  You didn't win because you didn't do the right thing.
+8.  Did you win because you did the right thing? Yes, I did. No, I don't.
+9.  Didn't you win because you did the right thing? Yes, I did. No, I don't.
+10. The right thing was done therefore you won.

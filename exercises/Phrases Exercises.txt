@@ -1,0 +1,31 @@
+Sentence / Phrase
+
+1.  Present
+2.  Past
+3.  Future
+4.  Singular
+5.  Plural
+6.  Affirmative
+7.  Negative
+8.  Interrogative  (yes / no)
+9.  Interrogative negative.
+10. Active x Passive Voice
+11. Male version
+12. Female version
+13. Conditional
+14. Negative of Conditional
+
+Cip@2020@
+MONTE E SANTO TECNOLOGIA LTDA
+
+0- Zero Conditional
+Simple Present - Simple Present
+
+1 - First Conditional
+Simple Present - Simple Future
+
+2 - Second Conditional
+Simple Past - Modal Auxiliar (could, should, would, might) + Simple Present
+
+3 - Third Conditional
+Past Perfect - Modal Auxiliar (could, should, would, might) + Have + Past Participle 
