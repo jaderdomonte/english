@@ -1,37 +1,37 @@
-a)   All clients like to new layout of store.
+a)   All clients like the new layout of the store.
 11.  Eq.
 12.  Eq.
-13.  If all clients liked to new layout of store. They'd buy it much more / They'd stay it more time.
-14.  If all clients didn't like to new layout of store. They wouldn't buy it much more / They wouldn't stay it more time.
+13.  If all clients like the new layout of the store. They'll buy much more. / They'll stay more time in the store.
+14.  If all clients don't like the new layout of the store. They won't buy much more. / They won't stay more time in the store.
 
 b)  Some buildings will be repaired.
-11.  
-12.  
-13. If some buildings were repaired. We'd rent for more people. 
+11.  Eq.
+12.  Eq.
+13.  If some buildings aren't in good conditions. They'll be repaired. / Some buildings will be repaired. If they aren't in good conditions.
 14.  
 
-c)  Their decison have helped everyone.
+c)  Their decison has helped everyone.
 11.  
 12.  
-13. If their decision helps everyone. You won't need worry about it. 
+13. If their decision has helped everyone. You won't need to worry about it. 
 14.  
 
 d)  The geologists have been studying the planet since long.  
 11. 
 12.  
-13.  If the geologists study the planet since long. They knows a lot of things about the planet.
+13.  If the geologists have been studying the planet since long. They'll know a lot of things about the planet.
 14.  
 
 e)  Part of the documents seemed intact. 
 11. Eq.
 12. Eq.
-13. If part of the documents seems intact. They'll be approved.
-14.  
+13. If part of the documents semed intact. They'd be approved.
+14.  If part of the documents didn't seem intact. They wouldn't be aproved.
 
 f)  Grace has been working in the same mall for years.
 11. John has been working in the same mall for years.
 12. Eq. 
-13. If Grace worked in the same mall for years. She would knows the way of the mall easily.
+13. If Grace has been working in the same mall for years. She'll know the way to the mall easily.
 14.  
 
 g)   By the time I arrive, They will have already traveled.
@@ -40,8 +40,44 @@ g)   By the time I arrive, They will have already traveled.
 13.  
 14.  
 
-h)  He slept in the couch yesterday. 
-11. She slept in the couch yesterday.
+h)  He slept on the couch yesterday. 
+11. She slept on the couch yesterday.
 12.  Eq.
-13. If He had slept in the couch yesterday. The couch would have be a mess.
-14. If He hadn't slept in the couch yesterday. The couch wouldn't have be a mess.
+13. If He slept on the couch yesterday. Today the couch would be a mess.
+14. If He didn't sleep in the couch yesterday. Today the couch wouldn't be a mess.
+
+i)  São Paulo state has been representing well the country. 
+11. If São Paulo had been represented well
+12. 
+13. 
+14. 
+
+j)  A lot of cars had been stoped by the police.
+11. 
+12. 
+13. 
+14. 
+
+l)  Not of all parents participate in school meetings.
+11.
+12. 
+13.   If all parents participate in school meetings. The comunication between school and parents will be better.
+14. 
+
+m)  The committee had been talking about security for two hours.
+11. 
+12. 
+13. 
+14. 
+
+n)  By the end of the year, They will have finished this work.
+11. 
+12. 
+13. 
+14. 
+
+o)  No one was doing the task that moment.
+11. 
+12. 
+13. If someone was doing the task. We'd finish by the deadline.
+14.  If no one was doing the tasks. We'd not finish by the deadline.
