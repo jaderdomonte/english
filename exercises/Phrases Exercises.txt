@@ -8,7 +8,7 @@ Sentence / Phrase
 6.  Affirmative
 7.  Negative
 8.  Interrogative  (yes / no)
-9.  Interrogative negative.
+9.  Interrogative negative (Question tag)
 10. Active x Passive Voice
 11. Male version
 12. Female version
