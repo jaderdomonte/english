@@ -15,6 +15,16 @@ Sentence / Phrase
 13. Conditional
 14. Negative of Conditional
 15. Genitive / Possessive ('s)
+16. Phrasal Verbs
+17. Adjective (Normal)
+	17.1 Equality
+	17.2 Inferiority
+	17.3 Superiority
+	17.4 Superlative
+18. Adverbs
+19. Idiomatic expressions
+20. Prefixes and Suffixes
+
 
 1. Verbal tenses 
 2. Passive voice
